@@ -1,9 +1,7 @@
-import React from 'react'
 import Image from "../assets/rachida.svg"
 import BG from "../assets/R.jpg"
-type Props = {}
 
-const Header = (props: Props) => {
+const Header = () => {
     return (
         <div className="w-screen max-w-full h-52 relative bg-slate-900">
             <img src={BG} alt="bacground" className='absolute top-0 left-0 h-full w-full opacity-20 -z-0' />

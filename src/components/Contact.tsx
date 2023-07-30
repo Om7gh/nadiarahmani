@@ -4,7 +4,6 @@ import { MdAlternateEmail } from "react-icons/md"
 import CarteDeVisite from "./VCard"
 
 
-type Props = {}
 
 const Contact = () => {
     return (
