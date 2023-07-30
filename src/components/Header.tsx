@@ -8,7 +8,7 @@ const Header = () => {
             <div className="absolute md:w-1/6 w-[40%] left-1/2 -bottom-0 translate-y-1/2 -translate-x-1/2">
                 <img src={Image} alt='avatar' className='w-fit rounded-full border-8' />
             </div>
-            <div className="flex justify-center gap-5 ml-6 items-center text-white md:text-5xl text-3xl h-[60%] ">
+            <div className="flex justify-center gap-5 ml-6 items-center text-white text-5xl  h-[60%] ">
                 <h2>Nadia</h2>
                 <h2>Rahmani</h2>
 
